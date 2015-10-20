@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["And",""],["Attr",""],["Class",""],["Comment",""],["Element",""],["Name",""],["Not",""],["Or",""],["Text",""]],"trait":[["Predicate",""]]});
