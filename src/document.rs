@@ -106,7 +106,7 @@ impl Document {
     ///
     /// produces:
     ///
-    /// ```
+    /// ```text
     /// one
     /// two
     /// three
